@@ -1,10 +1,12 @@
 
 ---
-
 title: Financial_data_classification
-emoji: 🐳
+emoji: 🦀
 colorFrom: purple
-colorTo: gray
-sdk: docker
-app_port: 7860
+colorTo: purple
+sdk: gradio
+sdk_version: 3.1.7
+app_file: app.py
+pinned: false
+license: apache-2.0
 ---
